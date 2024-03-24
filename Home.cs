@@ -9,5 +9,6 @@ namespace ConsoleApp1
     internal class Home
     {
         public int id { get; set; }
+        public string  name { get; set; }
     }
 }
