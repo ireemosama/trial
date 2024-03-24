@@ -9,5 +9,6 @@ namespace ConsoleApp1
     internal class street
     {
         public int id { get; set; }
+        public int code { get; set; }
     }
 }
