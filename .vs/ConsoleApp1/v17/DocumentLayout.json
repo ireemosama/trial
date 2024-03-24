@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Electronica Care\\Desktop\\reem\\trial\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{369AE31F-1D14-47C6-9B94-CD66A5CD2AB1}|ConsoleApp1.csproj|c:\\users\\electronica care\\desktop\\reem\\trial\\reem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369AE31F-1D14-47C6-9B94-CD66A5CD2AB1}|ConsoleApp1.csproj|solutionrelative:reem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{369AE31F-1D14-47C6-9B94-CD66A5CD2AB1}|ConsoleApp1.csproj|C:\\Users\\Electronica Care\\Desktop\\reem\\trial\\street.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{369AE31F-1D14-47C6-9B94-CD66A5CD2AB1}|ConsoleApp1.csproj|solutionrelative:street.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{369AE31F-1D14-47C6-9B94-CD66A5CD2AB1}|ConsoleApp1.csproj|c:\\users\\electronica care\\desktop\\reem\\trial\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{369AE31F-1D14-47C6-9B94-CD66A5CD2AB1}|ConsoleApp1.csproj|C:\\Users\\Electronica Care\\Desktop\\reem\\trial\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{369AE31F-1D14-47C6-9B94-CD66A5CD2AB1}|ConsoleApp1.csproj|solutionrelative:people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -53,8 +57,25 @@
               "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "reem.cs",
+              "DocumentMoniker": "C:\\Users\\Electronica Care\\Desktop\\reem\\trial\\reem.cs",
+              "RelativeDocumentMoniker": "reem.cs",
+              "ToolTip": "C:\\Users\\Electronica Care\\Desktop\\reem\\trial\\reem.cs",
+              "RelativeToolTip": "reem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T21:37:22.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "people.cs",
               "DocumentMoniker": "C:\\Users\\Electronica Care\\Desktop\\reem\\trial\\people.cs",
               "RelativeDocumentMoniker": "people.cs",
@@ -62,25 +83,23 @@
               "RelativeToolTip": "people.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T21:17:57.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-24T21:17:57.873Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "street.cs",
               "DocumentMoniker": "C:\\Users\\Electronica Care\\Desktop\\reem\\trial\\street.cs",
               "RelativeDocumentMoniker": "street.cs",
               "ToolTip": "C:\\Users\\Electronica Care\\Desktop\\reem\\trial\\street.cs",
               "RelativeToolTip": "street.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T20:52:32.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-24T20:52:32.599Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Electronica Care\\Desktop\\reem\\trial\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -92,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Home.cs",
               "DocumentMoniker": "C:\\Users\\Electronica Care\\Desktop\\reem\\trial\\Home.cs",
               "RelativeDocumentMoniker": "Home.cs",

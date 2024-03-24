@@ -6,13 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal class street
+    internal class reem
     {
-        public int id { get; set; }
-        public int code { get; set; }
-        //comment
-
-        //iam reem 
         public int MyProperty { get; set; }
     }
 }
