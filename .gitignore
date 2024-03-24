@@ -1,3 +1,23 @@
 # Ignore bin and obj directories
 bin/
 obj/
+
+# Ignore executables and DLLs
+*.exe
+*.dll
+*.pdb
+
+# Ignore Visual Studio and user-specific files
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Ignore NuGet packages
+packages/
+
+# Ignore log files
+*.log
+
+# Ignore cache files
+*.cache
