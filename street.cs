@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         public int id { get; set; }
         public int code { get; set; }
-
+        //comment
         public int MyProperty { get; set; }
     }
 }
