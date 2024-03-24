@@ -13,5 +13,10 @@ namespace ConsoleApp1
         public int price { get; set; }
 
         public string address { get; set; }
+
+        public int MyProperty { get; set; }
+        public int MyProperty1 { get; set; }
+        public int MyProperty2 { get; set; }
+        //new comment
     }
 }

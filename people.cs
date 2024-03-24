@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal class street
+    internal class people
     {
-        public int id { get; set; }
-        public int code { get; set; }
-
+        public string name { get; set; }
         public int MyProperty { get; set; }
     }
 }
