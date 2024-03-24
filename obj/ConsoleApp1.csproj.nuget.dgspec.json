@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Electronica Care\\Desktop\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\Electronica Care\\Desktop\\reem\\trial\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Electronica Care\\Desktop\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\Electronica Care\\Desktop\\reem\\trial\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Electronica Care\\Desktop\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Electronica Care\\Desktop\\reem\\trial\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Electronica Care\\Desktop\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\Electronica Care\\Desktop\\reem\\trial\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Electronica Care\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Electronica Care\\Desktop\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\Electronica Care\\Desktop\\reem\\trial\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
